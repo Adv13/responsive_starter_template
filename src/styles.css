@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  text-align: center;
+  /*height: 100vh;*/
+}
+
+header,
+footer {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
